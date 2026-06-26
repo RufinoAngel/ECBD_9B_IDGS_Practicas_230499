@@ -11,6 +11,6 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 
 | No. | Descripción | Potenciador | Estatus | Fecha |
 | :---: | :--- | :---: | :---: | :---: |
-| 1 | Introducción al uso de Python en el Análisis de Datos | - | Pendiente | 28/05/2026 |
+| 1 | Introducción al uso de Python en el Análisis de Datos | 50 | Pendiente | 26/06/2026 |
 
 Creando un punto de restauración seguro antes de la fusión de la rama Practica05

@@ -1,4 +1,6 @@
+
 ![Logo del proyecto](images/Logo%20TI_%202025_Mesa%20de%20trabajo%201.png)
+
 # Repositorio de Prácticas para la Asignatura de Análisis Exploratorio de Datos con Jupyter y Python
 
 Este repositorio contendrá los resultados de las prácticas de la materia para tener una mejor organización y agilizar la revisión de las mismas.

@@ -12,5 +12,6 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 | No. | Descripción | Potenciador | Estatus | Fecha |
 | :---: | :--- | :---: | :---: | :---: |
 | 1 | [Introducción al uso de Python en el Análisis de Datos](Practica05/Practica05.ipynb) | 50 | ✅Finalizada | 26/06/2026 |
+| 2 | [Manejo de Mapas de Calor  Georeferenciables en el  Análisis EDA](https://nbviewer.org/github/RufinoAngel/ECBD_9B_IDGS_Practicas_230499/blob/Practica06-Angel-Rufino-Mendoza/Practica06/practica06.ipynb) | - | Pendiente | 30/06/2026 |
 
-Creando un punto de restauración seguro antes de la fusión de la rama Practica05
+
